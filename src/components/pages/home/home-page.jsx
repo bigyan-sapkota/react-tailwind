@@ -1,11 +1,10 @@
-import React from "react";
 import RecentNews from "./recent-news";
 
 const HomePage = () => {
   return (
-    <div>
+    <main>
       <RecentNews />
-    </div>
+    </main>
   );
 };
 
