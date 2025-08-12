@@ -1,4 +1,3 @@
-import React from "react";
 import DynamicText from "../../layouts/dynamic-text";
 import ClassCard from "../../cards/class-card";
 import { classesData } from "../../../lib/constants";
