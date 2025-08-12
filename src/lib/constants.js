@@ -12,7 +12,7 @@ export const newsData = [
     category: "Science",
     title: "Science students in India are feeling happy to study physics",
     description:
-      "Interest in physics for class 10 and other students has been remarkably increased over the period of time",
+      "Interest in physics for class 10 and other students has been remarkably increased over the period of time. New science students are keen about the thermodynamics topic and doing more research and deep study in that field.",
     thumbnail: "news-2.jpg",
   },
   {
